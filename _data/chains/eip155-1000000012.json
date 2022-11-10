@@ -1,0 +1,24 @@
+{
+  "name": "Gaura Chain Testnet",
+  "chain": "GAURA",
+  "rpc": [
+    "https://testnet-rpc.gaurascan.com/",
+  ],
+  "faucets": ["https://faucet.gaurascan.com/"],
+  "nativeCurrency": {
+    "name": "Gaura",
+    "symbol": "GAURA",
+    "decimals": 18
+  },
+  "infoURL": "https://gaurascan.com/",
+  "shortName": "GAURA",
+  "chainId": 33982,
+  "networkId": 33982,
+  "icon": "tGAURA",
+  "explorers": [{
+    "name": "gaurascan",
+    "url": "https://gaurascan.com/",
+    "icon": "gaura",
+    "standard": "EIP3091"
+  }]
+}
